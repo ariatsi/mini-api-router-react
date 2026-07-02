@@ -1,4 +1,4 @@
-# Mini-TP 7 – React Router, consommation d’API et Login/JWT
+# Mini-TP – React Router, consommation d’API et Login/JWT
 
 Ce projet est une application React créée avec Vite.
 
